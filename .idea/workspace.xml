@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2adabd77-4ad3-439c-82de-5d6db68f36f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575098217632</updated>
-      <workItem from="1575098218858" duration="5540000" />
+      <workItem from="1575098218858" duration="5846000" />
     </task>
     <servers />
   </component>
@@ -167,9 +168,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1441" y="468" key="NewPhpFileDialog" timestamp="1575106741590">
+    <state x="1441" y="468" key="NewPhpFileDialog" timestamp="1575107680116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1441" y="468" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575106741590" />
+    <state x="1441" y="468" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575107680116" />
   </component>
 </project>
